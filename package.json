@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "demo-server",
+  "description": "a demo server made at a tutorial ",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrett-laroy-johnson/demo-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrett-laroy-johnson/demo-server/issues"
+  },
+  "homepage": "https://github.com/garrett-laroy-johnson/demo-server#readme"
+}
